@@ -5,7 +5,7 @@ An interactive robot directory created with React. Search robots by their name a
 
 ## Deployment
 
-Deployed Website: (Coming soon)
+Deployed Website: https://rosajen27.github.io/robofriends/
 
 ![demo](./public/img/demo.png)
 
